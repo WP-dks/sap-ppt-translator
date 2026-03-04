@@ -1,0 +1,19 @@
+{
+  "MRP": "MRP",
+  "BDC": "BDC",
+  "Sourcing": "Sourcing",
+  "Purchase Order": "구매 주문(PO)",
+  "Planned Order": "계획 오더",
+  "Production Order": "생산 오더",
+  "Master Data": "마스터 데이터",
+  "Sales Order": "판매 주문(SO)",
+  "Stock Transfer Order": "재고 이동 주문(STO)",
+  "Goods Receipt": "입고(GR)",
+  "Goods Issue": "출고(GI)",
+  "Bill of Materials": "BOM",
+  "Routing": "공정(Routing)",
+  "Work Center": "작업장(Work Center)",
+  "Material Master": "자재 마스터",
+  "Plant": "플랜트",
+  "Storage Location": "저장 위치(SLoc)"
+}

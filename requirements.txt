@@ -1,0 +1,6 @@
+streamlit
+python-pptx
+deepl
+openai
+python-dotenv
+deep-translator
